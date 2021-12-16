@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rania-smt
-- 👀 I’m interested in Web developpment
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me raniasameut@gmail.com
 
